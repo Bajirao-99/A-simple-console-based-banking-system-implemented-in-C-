@@ -2,12 +2,13 @@
 
 Features:
 
-  Open a new account
-  Balance Enquiry
-  Deposit funds into an account
-  Withdraw funds from an account
-  Close an existing account
-  Display all accounts
+ 1. Open a new account
+ 2. Balance Enquiry
+ 3. Deposit funds into an account
+ 4. Withdraw funds from an account
+ 5. Close an existing account
+ 6. Display all accounts
+ 7. Quit
 
 Prerequisites:
   A C++ compiler (like g++)
