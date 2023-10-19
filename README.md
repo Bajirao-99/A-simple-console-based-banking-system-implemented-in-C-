@@ -10,18 +10,19 @@ Features:
  6. Display all accounts
  7. Quit
 
-Prerequisites:
+
+1. Prerequisites:
   A C++ compiler (like g++)
 
 
-Compile the code :
+2. Compile the code :
   g++ -o bank main.cpp
-          Note : "bank" is file name  
-Run the program :
+            
+3. Run the program :
   ./bank
           Note : "bank" is file name 
-Usage:
+4. Usage:
   After running the program, follow the on-screen instructions to perform different operations.
 
-Notes:
+5. Notes:
   The program uses file handling to save and retrieve account details. Make sure you have write permissions in the directory you are running the program from.
